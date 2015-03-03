@@ -4,7 +4,6 @@
 # landbird program.  Can be used for multiple islands as long as the projections are the same for input fields.
 #
 # Author: R. Rudolph, National Park Service
-# email: rocky_rudolph@nps.gov
 # Date: 3/2/15
 
 # Import system modules

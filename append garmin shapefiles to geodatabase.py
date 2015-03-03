@@ -3,7 +3,6 @@
 # Contact me if you would like the toolbox tool that I used to interface with this script.
 # ---------------------------------------------------------------------------
 # Author: R. Rudolph, National Park Service
-# email: rocky_rudolph@nps.gov
 # Date: 3/2/15
 
 

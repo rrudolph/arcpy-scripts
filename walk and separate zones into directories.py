@@ -2,7 +2,6 @@
 # It could easily be adapted to to do whatever you wanted to featureclasses within a directory system. Feel free to modify the code block that "does stuff"
 # 
 # Author: R. Rudolph, National Park Service
-# email: rocky_rudolph@nps.gov
 # Date: 3/20/14
 
 import arcpy, os

@@ -2,7 +2,6 @@
 # Note the arcpy.Describe(raster).name variable. This grabs the name of the raster so you can use it later to write a new file with the same name and append text to it to distinguish it from the old file. 
 #
 # Author: R. Rudolph, National Park Service
-# email: rocky_rudolph@nps.gov
 # Date: 3/2/15
 
 import arcpy
