@@ -1,4 +1,3 @@
-# arcpy-scripts
 Arcpy Scripts
 =============
 
